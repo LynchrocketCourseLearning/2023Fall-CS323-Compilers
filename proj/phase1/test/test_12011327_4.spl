@@ -1,0 +1,6 @@
+int test_12011327_4()
+{
+  int a = 0xFFF;
+  int b = 123;
+  return a - b;
+}

@@ -1,0 +1,14 @@
+int f1(int a)
+{
+  return 3 * a;
+}
+int f2(int x, int y)
+{
+  return x + y;
+}
+int test_12011327_5(
+{
+  int a, b, c;
+  c = f2(f1(f1(a+b*f1(b)), 1.7);
+  return c;
+}

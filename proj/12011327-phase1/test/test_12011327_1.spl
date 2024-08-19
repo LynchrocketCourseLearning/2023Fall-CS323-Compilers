@@ -1,0 +1,4 @@
+int test_12011327_1(int a, int b)
+{(
+  c = 'c'
+}
